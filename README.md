@@ -1,5 +1,5 @@
 
-# ULTRA-NOA [ULTRA-FLAME]
+# ULTRA-NOA
 ```
 Tidak Menjamin Hijau Tools Free
 ```
@@ -19,7 +19,6 @@ Tidak Menjamin Hijau Tools Free
 
 ### Installation On Termux
  
- 
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install git
@@ -30,6 +29,4 @@ $ git clone https://github.com/FLAME-XD/Ultra-Noa
 $ cd Ultra-Noa
 $ git pull
 $ python ultraman.py
-
- 
 ```
